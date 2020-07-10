@@ -56,7 +56,7 @@ You need to have Python installed plus some non-standard Python modules
 and a few tools.
 
 All platforms
-    Python-2.7.latest       http://www.python.org (2.7.9+ recommended)
+    Python-3.latest       http://www.python.org (Minimum Python 3.5+)
 
 Windows
     PyWin32                 use "pip install pypiwin32"
